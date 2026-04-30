@@ -1,0 +1,2780 @@
+{
+  "_type": "client_plans_bundle",
+  "_exported": "2026-04-30T12:12:37.146Z",
+  "clientId": "cl_1777548331352",
+  "clientName": "Caspar",
+  "plans": [
+    {
+      "id": "plan_1777548600353",
+      "name": "Lifts",
+      "type": "weekly",
+      "startDate": "",
+      "dayOrder": [
+        "day 1",
+        "day 2",
+        "day 3",
+        "day 4"
+      ],
+      "weeks": {
+        "1": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "decline bench",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 0,
+              "_altTotal": 2
+            }
+          ]
+        },
+        "2": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "dips narrow",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 1,
+              "_altTotal": 2
+            }
+          ]
+        },
+        "3": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "decline bench",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 0,
+              "_altTotal": 2
+            }
+          ]
+        },
+        "4": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "dips narrow",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 1,
+              "_altTotal": 2
+            }
+          ]
+        },
+        "5": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "decline bench",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 0,
+              "_altTotal": 2
+            }
+          ]
+        },
+        "6": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "dips narrow",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 1,
+              "_altTotal": 2
+            }
+          ]
+        },
+        "7": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "decline bench",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 0,
+              "_altTotal": 2
+            }
+          ]
+        },
+        "8": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "dips narrow",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 1,
+              "_altTotal": 2
+            }
+          ]
+        },
+        "9": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "decline bench",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 0,
+              "_altTotal": 2
+            }
+          ]
+        },
+        "10": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "dips narrow",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 1,
+              "_altTotal": 2
+            }
+          ]
+        },
+        "11": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "decline bench",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 0,
+              "_altTotal": 2
+            }
+          ]
+        },
+        "12": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 150
+            },
+            {
+              "name": "Deep Pause Squat",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Deadlift Romanian (RDL)",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 90
+            },
+            {
+              "name": "Back Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 25
+            },
+            {
+              "name": "Cossack Squats",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 0
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Bench Press",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Barbell Row",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 120
+            },
+            {
+              "name": "Incline Dumb Bell Press",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 30
+            },
+            {
+              "name": "cable curl (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            },
+            {
+              "name": "Tricep Pushdown (rope)",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 3": [
+            {
+              "name": "Deadlift",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 170
+            },
+            {
+              "name": "Split Squats",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 40
+            },
+            {
+              "name": "Leg Extension",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "Face Pull",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 24.5
+            }
+          ],
+          "day 4": [
+            {
+              "name": "OHP",
+              "prog": "gzclp_t1",
+              "reactive": true,
+              "startKg": 70
+            },
+            {
+              "name": "shoulder press machine",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 35
+            },
+            {
+              "name": "lat pulldown wide",
+              "prog": "gzclp_t2",
+              "reactive": true,
+              "startKg": 56
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "gzclp_t3",
+              "reactive": true,
+              "startKg": 10
+            },
+            {
+              "name": "dips narrow",
+              "_altGroup": "altgrp_1777548600353_yswd",
+              "_altIdx": 1,
+              "_altTotal": 2
+            }
+          ]
+        }
+      },
+      "altGroups": {
+        "altgrp_1777548600353_yswd": {
+          "id": "altgrp_1777548600353_yswd",
+          "prog": "gzclp_t3",
+          "day": "day 4",
+          "exercises": [
+            {
+              "name": "decline bench",
+              "orm": 60
+            },
+            {
+              "name": "dips narrow",
+              "orm": 0
+            }
+          ]
+        }
+      },
+      "_meta": {
+        "color": "#00d4ff"
+      }
+    },
+    {
+      "id": "plan_1777548634114",
+      "name": "Climb",
+      "type": "weekly",
+      "startDate": "",
+      "dayOrder": [
+        "day 1",
+        "day 2",
+        "day 3"
+      ],
+      "weeks": {
+        "1": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "2": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "3": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "4": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "5": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "6": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "7": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "8": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "9": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "10": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "11": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "12": {
+          "day 1": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "blk_1776330486141",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        }
+      },
+      "altGroups": {},
+      "_meta": {
+        "color": "#ff9f40"
+      }
+    },
+    {
+      "id": "plan_1777548668881",
+      "name": "Hangboard",
+      "type": "weekly",
+      "startDate": "",
+      "dayOrder": [
+        "day 1"
+      ],
+      "weeks": {
+        "1": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "6",
+              "load": "8.75",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp",
+              "setKgs": [
+                "8.75",
+                "8.75",
+                "8.75",
+                "8.75",
+                "8.75",
+                "8.75"
+              ]
+            }
+          ]
+        },
+        "2": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "6",
+              "load": "8.75",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp",
+              "setKgs": [
+                "8.75",
+                "8.75",
+                "15",
+                "15",
+                "8.75",
+                "8.75"
+              ]
+            }
+          ]
+        },
+        "3": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "6",
+              "load": "8.75",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp",
+              "setKgs": [
+                "8.75",
+                "15",
+                "15",
+                "15",
+                "15",
+                "8.75"
+              ]
+            }
+          ]
+        },
+        "4": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "6",
+              "load": "8.75",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp",
+              "setKgs": [
+                "15",
+                "15",
+                "15",
+                "15",
+                "15",
+                "15"
+              ]
+            }
+          ]
+        },
+        "5": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "6",
+              "load": "8.75",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp",
+              "setKgs": [
+                "15",
+                "15",
+                "22.5",
+                "22.5",
+                "15",
+                "15"
+              ]
+            }
+          ]
+        },
+        "6": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "6",
+              "load": "8.75",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp",
+              "setKgs": [
+                "15",
+                "22.5",
+                "22.5",
+                "22.5",
+                "22.5",
+                "15"
+              ]
+            }
+          ]
+        },
+        "7": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "6",
+              "load": "8.75",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp",
+              "setKgs": [
+                "22.5",
+                "22.5",
+                "22.5",
+                "22.5",
+                "22.5",
+                "22.5"
+              ]
+            }
+          ]
+        },
+        "8": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "6",
+              "load": "8.75",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp",
+              "setKgs": [
+                "22.5",
+                "22.5",
+                "28.75",
+                "28.75",
+                "22.5",
+                "22.5"
+              ]
+            }
+          ]
+        },
+        "9": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "6",
+              "load": "8.75",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp",
+              "setKgs": [
+                "22.5",
+                "28.75",
+                "28.75",
+                "28.75",
+                "28.75",
+                "22.5"
+              ]
+            }
+          ]
+        },
+        "10": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "6",
+              "load": "8.75",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp",
+              "setKgs": [
+                "28.75",
+                "28.75",
+                "28.75",
+                "28.75",
+                "28.75",
+                "28.75"
+              ]
+            }
+          ]
+        },
+        "11": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "8.75",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp",
+              "setKgs": [
+                "28.75",
+                "35",
+                "41.25"
+              ]
+            }
+          ]
+        },
+        "12": {
+          "day 1": [
+            {
+              "name": "Hang 20mm",
+              "prog": "hang_maxstrength",
+              "type": "hangboard",
+              "sets": "0",
+              "load": "0",
+              "duration": "10",
+              "rest": "180",
+              "repeats": "1",
+              "repRest": "0",
+              "edgeSize": "",
+              "gripType": "half crimp"
+            }
+          ]
+        }
+      },
+      "altGroups": {},
+      "_meta": {
+        "color": "#b060ff"
+      }
+    }
+  ],
+  "progressions": [
+    {
+      "id": "gzclp_t1",
+      "name": "GZCLP T1",
+      "builtIn": false,
+      "reactive": true,
+      "startPct": 0.75,
+      "increment": 2.5,
+      "resetPct": 0.85,
+      "amrapGoalPct": 150,
+      "restTime": 180,
+      "tiers": [
+        {
+          "label": "5×3",
+          "sets": 5,
+          "reps": 3,
+          "amrap": false
+        },
+        {
+          "label": "6×2",
+          "sets": 6,
+          "reps": 2,
+          "amrap": false
+        },
+        {
+          "label": "5×1",
+          "sets": 10,
+          "reps": 1,
+          "amrap": false
+        }
+      ]
+    },
+    {
+      "id": "gzclp_t2",
+      "name": "GZCLP T2",
+      "builtIn": false,
+      "reactive": true,
+      "startPct": 0.7,
+      "increment": 2.5,
+      "resetPct": 0.85,
+      "amrapGoalPct": 150,
+      "restTime": 90,
+      "tiers": [
+        {
+          "label": "3×10",
+          "sets": 3,
+          "reps": 10,
+          "amrap": false
+        },
+        {
+          "label": "3×8",
+          "sets": 3,
+          "reps": 8,
+          "amrap": false
+        },
+        {
+          "label": "3×6",
+          "sets": 3,
+          "reps": 6,
+          "amrap": false
+        }
+      ]
+    },
+    {
+      "id": "gzclp_t3",
+      "name": "GZCLP T3",
+      "builtIn": false,
+      "reactive": true,
+      "startPct": 0.6,
+      "increment": 1.25,
+      "resetPct": 0.9,
+      "amrapGoalPct": 150,
+      "restTime": 60,
+      "tiers": [
+        {
+          "label": "2×15",
+          "sets": 2,
+          "reps": 15,
+          "amrap": true
+        },
+        {
+          "label": "2×12",
+          "sets": 2,
+          "reps": 12,
+          "amrap": true
+        },
+        {
+          "label": "2×10",
+          "sets": 2,
+          "reps": 10,
+          "amrap": true
+        }
+      ]
+    },
+    {
+      "id": "hang_maxstrength",
+      "tag": "power",
+      "name": "Max Hang Stepwise",
+      "builtIn": false,
+      "hangboard": true,
+      "startPct": 0.8,
+      "increment": 0,
+      "defaultDuration": 10,
+      "defaultRest": 180,
+      "defaultRepeats": 1,
+      "description": "Lattice benchmark: 6 × 10s @ 85% max. Pure max strength. Use 20mm half crimp. Test 1RM on 20mm edge before starting.",
+      "weeks": [
+        {
+          "sets": 6,
+          "reps": 1,
+          "pctOffset": 0,
+          "setProfile": [
+            0.8,
+            0.8,
+            0.8,
+            0.8,
+            0.8,
+            0.8
+          ]
+        },
+        {
+          "sets": 6,
+          "reps": 1,
+          "pctOffset": 0,
+          "setProfile": [
+            0.8,
+            0.8,
+            0.85,
+            0.85,
+            0.8,
+            0.8
+          ]
+        },
+        {
+          "sets": 6,
+          "reps": 1,
+          "pctOffset": -0.15,
+          "setProfile": [
+            0.8,
+            0.85,
+            0.85,
+            0.85,
+            0.85,
+            0.8
+          ]
+        },
+        {
+          "sets": 6,
+          "reps": 1,
+          "pctOffset": 0.025,
+          "setProfile": [
+            0.85,
+            0.85,
+            0.85,
+            0.85,
+            0.85,
+            0.85
+          ]
+        },
+        {
+          "sets": 6,
+          "reps": 1,
+          "pctOffset": 0.025,
+          "setProfile": [
+            0.85,
+            0.85,
+            0.9,
+            0.9,
+            0.85,
+            0.85
+          ]
+        },
+        {
+          "sets": 6,
+          "reps": 1,
+          "pctOffset": 0.025,
+          "setProfile": [
+            0.85,
+            0.9,
+            0.9,
+            0.9,
+            0.9,
+            0.85
+          ]
+        },
+        {
+          "sets": 6,
+          "reps": 1,
+          "pctOffset": -0.125,
+          "setProfile": [
+            0.9,
+            0.9,
+            0.9,
+            0.9,
+            0.9,
+            0.9
+          ]
+        },
+        {
+          "sets": 6,
+          "reps": 1,
+          "pctOffset": 0.05,
+          "setProfile": [
+            0.9,
+            0.9,
+            0.95,
+            0.95,
+            0.9,
+            0.9
+          ]
+        },
+        {
+          "sets": 6,
+          "reps": 1,
+          "pctOffset": 0.05,
+          "setProfile": [
+            0.9,
+            0.95,
+            0.95,
+            0.95,
+            0.95,
+            0.9
+          ]
+        },
+        {
+          "sets": 6,
+          "reps": 1,
+          "pctOffset": 0.05,
+          "setProfile": [
+            0.95,
+            0.95,
+            0.95,
+            0.95,
+            0.95,
+            0.95
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "pctOffset": -0.1,
+          "setProfile": [
+            0.95,
+            1,
+            1.05
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_seed_0",
+      "type": "lift",
+      "name": "Back Extension",
+      "orm": 25,
+      "date": "2025-09-03",
+      "bodypart": "upper",
+      "pushpull": "pull",
+      "part": "back",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "pull",
+        "part": "back"
+      }
+    },
+    {
+      "id": "ex_seed_1",
+      "type": "lift",
+      "name": "Barbell Row",
+      "orm": 120,
+      "date": "2025-12-12",
+      "bodypart": "upper",
+      "pushpull": "pull",
+      "part": "back",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "pull",
+        "part": "back"
+      }
+    },
+    {
+      "id": "ex_seed_2",
+      "type": "lift",
+      "name": "Bench Press",
+      "orm": 120,
+      "date": "2025-12-12",
+      "bodypart": "upper",
+      "pushpull": "push",
+      "part": "chest",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "chest"
+      }
+    },
+    {
+      "id": "ex_seed_4",
+      "type": "lift",
+      "name": "cable curl (rope)",
+      "orm": 24.5,
+      "date": "2025-09-03",
+      "bodypart": "upper",
+      "pushpull": "pull",
+      "part": "arms",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "pull",
+        "part": "arms"
+      }
+    },
+    {
+      "id": "ex_seed_7",
+      "type": "lift",
+      "name": "Deadlift",
+      "orm": 170,
+      "date": "2025-12-12",
+      "bodypart": "lower",
+      "pushpull": "pull",
+      "part": "legs",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "pull",
+        "part": "legs"
+      }
+    },
+    {
+      "id": "ex_seed_8",
+      "type": "lift",
+      "name": "Deadlift Romanian (RDL)",
+      "orm": 90,
+      "date": "2025-09-04",
+      "bodypart": "lower",
+      "pushpull": "pull",
+      "part": "legs",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "pull",
+        "part": "legs"
+      }
+    },
+    {
+      "id": "ex_seed_9",
+      "type": "lift",
+      "name": "decline bench",
+      "orm": 60,
+      "date": "2025-09-04",
+      "bodypart": "upper",
+      "pushpull": "push",
+      "part": "chest",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "chest"
+      }
+    },
+    {
+      "id": "ex_seed_10",
+      "type": "lift",
+      "name": "dips narrow",
+      "orm": 35,
+      "date": "2025-09-07",
+      "bodypart": "upper",
+      "pushpull": "push",
+      "part": "chest",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "chest"
+      }
+    },
+    {
+      "id": "ex_seed_12",
+      "type": "lift",
+      "name": "Face Pull",
+      "orm": 24.5,
+      "date": "2025-09-03",
+      "bodypart": "upper",
+      "pushpull": "pull",
+      "part": "shoulders",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "pull",
+        "part": "shoulders"
+      }
+    },
+    {
+      "id": "ex_seed_14",
+      "type": "lift",
+      "name": "Hamstring Curl",
+      "orm": 40,
+      "date": "2025-09-03",
+      "bodypart": "lower",
+      "pushpull": "legs",
+      "part": "legs",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "legs",
+        "part": "legs"
+      }
+    },
+    {
+      "id": "ex_seed_20",
+      "type": "lift",
+      "name": "lat pulldown wide",
+      "orm": 56,
+      "date": "2025-09-03",
+      "bodypart": "upper",
+      "pushpull": "pull",
+      "part": "back",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "pull",
+        "part": "back"
+      }
+    },
+    {
+      "id": "ex_seed_22",
+      "type": "lift",
+      "name": "Leg Extension",
+      "orm": 35,
+      "date": "2025-09-03",
+      "bodypart": "lower",
+      "pushpull": "legs",
+      "part": "legs",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "legs",
+        "part": "legs"
+      }
+    },
+    {
+      "id": "ex_seed_28",
+      "type": "lift",
+      "name": "OHP",
+      "orm": 70,
+      "date": "2025-09-04",
+      "bodypart": "upper",
+      "pushpull": "push",
+      "part": "shoulders",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "shoulders"
+      }
+    },
+    {
+      "id": "ex_seed_38",
+      "type": "lift",
+      "name": "shoulder press machine",
+      "orm": 35,
+      "date": "2025-09-04",
+      "bodypart": "upper",
+      "pushpull": "push",
+      "part": "shoulders",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "shoulders"
+      }
+    },
+    {
+      "id": "ex_seed_39",
+      "type": "lift",
+      "name": "Squat back",
+      "orm": 150,
+      "date": "2025-12-12",
+      "bodypart": "lower",
+      "pushpull": "legs",
+      "part": "legs",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "legs",
+        "part": "legs"
+      }
+    },
+    {
+      "id": "ex_seed_41",
+      "type": "lift",
+      "name": "Tricep Pushdown (rope)",
+      "orm": 24.5,
+      "date": "2025-09-03",
+      "bodypart": "upper",
+      "pushpull": "push",
+      "part": "arms",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "arms"
+      }
+    },
+    {
+      "id": "ex_1776265966339",
+      "name": "Deep Pause Squat",
+      "orm": 40,
+      "date": "2026-03-12",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "legs",
+        "part": "legs"
+      },
+      "type": "lift"
+    },
+    {
+      "id": "ex_1776265985038",
+      "name": "Lu Raises",
+      "orm": 10,
+      "date": "2026-12-13",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "shoulders"
+      },
+      "type": "lift"
+    },
+    {
+      "id": "ex_1776266010327",
+      "name": "Split Squats",
+      "orm": 40,
+      "date": "2026-03-13",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "legs",
+        "part": "legs"
+      },
+      "type": "lift"
+    },
+    {
+      "id": "ex_1776266026693",
+      "name": "Cossack Squats",
+      "orm": 0,
+      "date": "2026-04-14",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "legs",
+        "part": "legs"
+      },
+      "type": "lift"
+    },
+    {
+      "id": "ex_1776266045219",
+      "name": "Incline Dumb Bell Press",
+      "orm": 30,
+      "date": "2026-03-13",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "chest"
+      },
+      "type": "lift"
+    },
+    {
+      "id": "ex_hb_3",
+      "name": "Hang 20mm",
+      "type": "hangboard",
+      "orm": 35,
+      "date": "",
+      "edgeSize": "20mm",
+      "gripType": "half crimp",
+      "part": "fingers",
+      "tags": {
+        "bodypart": "",
+        "pushpull": "",
+        "part": "fingers"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "bodypart",
+      "label": "Bodypart"
+    },
+    {
+      "id": "pushpull",
+      "label": "Push/Pull"
+    },
+    {
+      "id": "part",
+      "label": "Part"
+    }
+  ]
+}
