@@ -1,0 +1,867 @@
+{
+  "id": "plan_1789910018107",
+  "name": "test",
+  "type": "weekly",
+  "startDate": "",
+  "dayOrder": [
+    "day 1"
+  ],
+  "weeks": {
+    "1": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        }
+      ]
+    },
+    "4": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "5",
+            "5",
+            "5"
+          ]
+        }
+      ]
+    },
+    "5": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        }
+      ]
+    },
+    "6": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        }
+      ]
+    },
+    "7": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        }
+      ]
+    },
+    "8": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "5.5",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "5.5",
+            "5.5",
+            "5.5"
+          ]
+        }
+      ]
+    },
+    "9": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        }
+      ]
+    },
+    "10": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        }
+      ]
+    },
+    "11": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        }
+      ]
+    },
+    "12": {
+      "day 1": [
+        {
+          "name": "Hang 20mm — half crimp",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "half crimp",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        },
+        {
+          "name": "Hang 20mm — drag",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "drag",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        },
+        {
+          "name": "Hang 20mm — back3",
+          "prog": "prog_1789909832123",
+          "type": "hangboard",
+          "sets": "3",
+          "load": "6",
+          "duration": "10",
+          "rest": "180",
+          "repeats": "3",
+          "repRest": "0",
+          "edgeSize": "",
+          "gripType": "back3",
+          "setKgs": [
+            "6",
+            "6",
+            "6"
+          ]
+        }
+      ]
+    }
+  },
+  "altGroups": {},
+  "templateId": "plan_1789910012100",
+  "createdAt": "2026-09-20T13:13:38.107Z",
+  "progressions": [
+    {
+      "id": "prog_1789909832123",
+      "name": "Macleod",
+      "builtIn": false,
+      "hangboard": true,
+      "startPct": 0.5,
+      "increment": 0.05,
+      "defaultDuration": 10,
+      "defaultRest": 180,
+      "defaultRepeats": 3,
+      "weeks": [
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.55,
+            0.55,
+            0.55
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.55,
+            0.55,
+            0.55
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.55,
+            0.55,
+            0.55
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.55,
+            0.55,
+            0.55
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.6,
+            0.6,
+            0.6
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.6,
+            0.6,
+            0.6
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.6,
+            0.6,
+            0.6
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "loadOffset": 0,
+          "setProfile": [
+            0.6,
+            0.6,
+            0.6
+          ]
+        }
+      ],
+      "grips": [
+        "half crimp",
+        "drag",
+        "back3"
+      ],
+      "roundTo": 0.01,
+      "tag": "power"
+    }
+  ],
+  "exercises": [],
+  "categories": [
+    {
+      "id": "bodypart",
+      "label": "Bodypart"
+    },
+    {
+      "id": "pushpull",
+      "label": "Push/Pull"
+    },
+    {
+      "id": "part",
+      "label": "Part"
+    }
+  ]
+}
