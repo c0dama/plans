@@ -1,0 +1,2915 @@
+{
+  "_type": "client_plans_bundle",
+  "_exported": "2026-11-23T13:27:02.983Z",
+  "clientId": "cl_1777931230543",
+  "clientName": "Caspar",
+  "plans": [
+    {
+      "id": "plan_1792948254691",
+      "name": "climb",
+      "type": "weekly",
+      "startDate": "",
+      "dayOrder": [
+        "day 1",
+        "day 2",
+        "day 3"
+      ],
+      "weeks": {
+        "1": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "2": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "3": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "4": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "5": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "6": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "7": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "8": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "9": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "10": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "11": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        },
+        "12": {
+          "day 1": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 2": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ],
+          "day 3": [
+            {
+              "_block": "board",
+              "name": "Moonboard",
+              "note": "40° / 25° alternating"
+            }
+          ]
+        }
+      },
+      "altGroups": {},
+      "templateId": "plan_1792946015473",
+      "createdAt": "2026-10-25T17:10:54.691Z",
+      "_meta": {
+        "color": "#00e5b0"
+      }
+    },
+    {
+      "id": "plan_1792948258270",
+      "name": "Hangboard",
+      "type": "weekly",
+      "startDate": "",
+      "dayOrder": [
+        "day 1",
+        "day 2"
+      ],
+      "weeks": {
+        "1": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        "2": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        "3": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        "4": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        "5": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        "6": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        "7": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "6",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        "8": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        "9": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        "10": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        "11": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        "12": {
+          "day 1": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Hang 20mm — back3",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "back3",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 10mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 10mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "name": "Hang 20mm — crimp 8mm",
+              "prog": "prog_1789908686080",
+              "type": "hangboard",
+              "sets": "3",
+              "load": "0",
+              "duration": "10",
+              "rest": "120",
+              "repeats": "1",
+              "repRest": "3",
+              "edgeSize": "",
+              "gripType": "crimp 8mm",
+              "setKgs": [
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        }
+      },
+      "altGroups": {},
+      "templateId": "plan_1792948154193",
+      "createdAt": "2026-10-25T17:10:58.270Z",
+      "_meta": {
+        "color": "#00d4ff"
+      }
+    },
+    {
+      "id": "plan_1795440415374",
+      "name": "Maintain Lifts",
+      "type": "weekly",
+      "startDate": "",
+      "dayOrder": [
+        "day 1",
+        "day 2"
+      ],
+      "weeks": {
+        "1": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "5",
+              "kg": "60"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "5",
+              "kg": "96.25"
+            },
+            {
+              "name": "OHP",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "5",
+              "kg": "35"
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "5",
+              "kg": "32.5"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "5",
+              "kg": "85"
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "5",
+              "kg": "7.5"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        },
+        "2": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "5",
+              "kg": "66"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "5",
+              "kg": "102.5"
+            },
+            {
+              "name": "OHP",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "5",
+              "kg": "38.5"
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "5",
+              "kg": "33.75"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "5",
+              "kg": "93.5"
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "5",
+              "kg": "8.75"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        },
+        "3": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "5",
+              "kg": "72"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "5",
+              "kg": "107.5"
+            },
+            {
+              "name": "OHP",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "5",
+              "kg": "42"
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "5",
+              "kg": "36.25"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "5",
+              "kg": "102"
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "5",
+              "kg": "8.75"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        },
+        "4": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Bench Press",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "OHP",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Hamstring Curl",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Lu Raises",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        },
+        "5": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "3",
+              "kg": "78"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "3",
+              "kg": "107.5"
+            },
+            {
+              "name": "OHP",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "3",
+              "kg": "45.5"
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "3",
+              "kg": "36.25"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "3",
+              "kg": "110.5"
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "3",
+              "kg": "8.75"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        },
+        "6": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "3",
+              "kg": "84"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "3",
+              "kg": "113.75"
+            },
+            {
+              "name": "OHP",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "3",
+              "kg": "49"
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "3",
+              "kg": "37.5"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "3",
+              "kg": "119"
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "3",
+              "kg": "10"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        },
+        "7": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "3",
+              "kg": "90"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "3",
+              "kg": "120"
+            },
+            {
+              "name": "OHP",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "3",
+              "kg": "52.5"
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "3",
+              "kg": "40"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "3",
+              "kg": "127.5"
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "3",
+              "kg": "10"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        },
+        "8": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Bench Press",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "OHP",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Hamstring Curl",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Lu Raises",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        },
+        "9": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "1",
+              "kg": "96"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "1",
+              "kg": "120"
+            },
+            {
+              "name": "OHP",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "1",
+              "kg": "56"
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "1",
+              "kg": "40"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "prog": "prog_1789907619204",
+              "sets": "5",
+              "reps": "1",
+              "kg": "136"
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "1",
+              "kg": "10"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        },
+        "10": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "1",
+              "kg": "102"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "1",
+              "kg": "126.25"
+            },
+            {
+              "name": "OHP",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "1",
+              "kg": "59.5"
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "1",
+              "kg": "42.5"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "prog": "prog_1789907619204",
+              "sets": "3",
+              "reps": "1",
+              "kg": "144.5"
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "1",
+              "kg": "10"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        },
+        "11": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "prog": "prog_1789907619204",
+              "sets": "1",
+              "reps": "1",
+              "kg": "108"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "1",
+              "kg": "132.5"
+            },
+            {
+              "name": "OHP",
+              "prog": "prog_1789907619204",
+              "sets": "1",
+              "reps": "1",
+              "kg": "63"
+            },
+            {
+              "name": "Hamstring Curl",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "1",
+              "kg": "43.75"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "prog": "prog_1789907619204",
+              "sets": "1",
+              "reps": "1",
+              "kg": "153"
+            },
+            {
+              "name": "Lu Raises",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "1",
+              "kg": "11.25"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        },
+        "12": {
+          "day 1": [
+            {
+              "name": "Squat back",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Bench Press",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "OHP",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Hamstring Curl",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Pull-Ups",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ],
+          "day 2": [
+            {
+              "name": "Deadlift",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "Lu Raises",
+              "sets": "0",
+              "reps": "0",
+              "kg": "0"
+            },
+            {
+              "name": "dips narrow",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "Split Squats",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            }
+          ]
+        }
+      },
+      "altGroups": {},
+      "templateId": "plan_1792944990591",
+      "createdAt": "2026-11-23T13:26:55.374Z",
+      "_meta": {
+        "color": "#00d4ff"
+      }
+    }
+  ],
+  "progressions": [
+    {
+      "id": "prog_1789908686080",
+      "name": "MacLeod progression",
+      "builtIn": false,
+      "hangboard": true,
+      "startPct": 0.5,
+      "increment": 0,
+      "defaultDuration": 10,
+      "defaultRest": 120,
+      "defaultRepeats": 6,
+      "weeks": [
+        {
+          "sets": 3,
+          "reps": 1,
+          "loadOffset": 0,
+          "setProfile": [
+            0.1,
+            0.1,
+            0.1
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "loadOffset": 0,
+          "setProfile": [
+            0.1,
+            0.1,
+            0.1
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 0,
+          "loadOffset": 0,
+          "setProfile": [
+            0.1,
+            0.1,
+            0.1
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "loadOffset": 0,
+          "setProfile": [
+            0.1,
+            0.1,
+            0.1
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "loadOffset": 0,
+          "setProfile": [
+            0.55,
+            0.55,
+            0.55
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "loadOffset": 0,
+          "setProfile": [
+            0.55,
+            0.55,
+            0.55
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 0,
+          "loadOffset": 0,
+          "setProfile": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "loadOffset": 0,
+          "setProfile": [
+            0.6,
+            0.6,
+            0.6
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "loadOffset": 0,
+          "setProfile": [
+            0.6,
+            0.6,
+            0.6
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "loadOffset": 0,
+          "setProfile": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "loadOffset": 0,
+          "setProfile": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "loadOffset": 0,
+          "setProfile": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        }
+      ],
+      "grips": [
+        "back3",
+        "crimp 10mm",
+        "crimp 8mm"
+      ],
+      "roundTo": 0.01,
+      "tag": "power",
+      "defaultRepRest": 3
+    },
+    {
+      "id": "wave",
+      "name": "Wave",
+      "builtIn": true,
+      "startPct": 0.8,
+      "increment": 0.05,
+      "restTime": 180,
+      "weeks": [
+        {
+          "sets": 5,
+          "reps": 5,
+          "pctOffset": 0
+        },
+        {
+          "sets": 3,
+          "reps": 5,
+          "pctOffset": 0.05
+        },
+        {
+          "sets": 1,
+          "reps": 5,
+          "pctOffset": 0.1
+        },
+        {
+          "sets": 0,
+          "reps": 0,
+          "pctOffset": 0
+        },
+        {
+          "sets": 5,
+          "reps": 3,
+          "pctOffset": 0.05
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "pctOffset": 0.1
+        },
+        {
+          "sets": 1,
+          "reps": 3,
+          "pctOffset": 0.15
+        },
+        {
+          "sets": 0,
+          "reps": 0,
+          "pctOffset": 0
+        },
+        {
+          "sets": 5,
+          "reps": 1,
+          "pctOffset": 0.1
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "pctOffset": 0.15
+        },
+        {
+          "sets": 1,
+          "reps": 1,
+          "pctOffset": 0.2
+        },
+        {
+          "sets": 0,
+          "reps": 0,
+          "pctOffset": 0
+        }
+      ]
+    },
+    {
+      "id": "prog_1789907619204",
+      "name": "Maintainwave",
+      "builtIn": false,
+      "startPct": 0.5,
+      "increment": 0.05,
+      "weeks": [
+        {
+          "sets": 5,
+          "reps": 5,
+          "pctOffset": 0
+        },
+        {
+          "sets": 5,
+          "reps": 5,
+          "pctOffset": 0.05
+        },
+        {
+          "sets": 5,
+          "reps": 5,
+          "pctOffset": 0.1
+        },
+        {
+          "sets": 0,
+          "reps": 0,
+          "pctOffset": 0
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "pctOffset": 0.1
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "pctOffset": 0.15
+        },
+        {
+          "sets": 3,
+          "reps": 3,
+          "pctOffset": 0.2
+        },
+        {
+          "sets": 0,
+          "reps": 0,
+          "pctOffset": 0
+        },
+        {
+          "sets": 5,
+          "reps": 1,
+          "pctOffset": 0.2
+        },
+        {
+          "sets": 3,
+          "reps": 1,
+          "pctOffset": 0.25
+        },
+        {
+          "sets": 1,
+          "reps": 1,
+          "pctOffset": 0.3
+        },
+        {
+          "sets": 0,
+          "reps": 0,
+          "pctOffset": 0
+        }
+      ],
+      "restTime": 120,
+      "roundTo": 0.01
+    },
+    {
+      "id": "prog_1792944397826",
+      "name": "Rep Tracker",
+      "builtIn": false,
+      "repTrack": true,
+      "sets": 3,
+      "restTime": 150
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_seed_2",
+      "type": "lift",
+      "name": "Bench Press",
+      "orm": 100,
+      "date": "2026-11-23",
+      "bodypart": "upper",
+      "pushpull": "push",
+      "part": "chest",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "chest"
+      }
+    },
+    {
+      "id": "ex_seed_7",
+      "type": "lift",
+      "name": "Deadlift",
+      "orm": 170,
+      "date": "2025-12-12",
+      "bodypart": "lower",
+      "pushpull": "pull",
+      "part": "legs",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "pull",
+        "part": "legs"
+      }
+    },
+    {
+      "id": "ex_seed_10",
+      "type": "lift",
+      "name": "dips narrow",
+      "orm": 35,
+      "date": "2025-09-07",
+      "bodypart": "upper",
+      "pushpull": "push",
+      "part": "chest",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "chest"
+      }
+    },
+    {
+      "id": "ex_seed_14",
+      "type": "lift",
+      "name": "Hamstring Curl",
+      "orm": 40,
+      "date": "2025-09-03",
+      "bodypart": "lower",
+      "pushpull": "legs",
+      "part": "legs",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "legs",
+        "part": "legs"
+      }
+    },
+    {
+      "id": "ex_seed_28",
+      "type": "lift",
+      "name": "OHP",
+      "orm": 70,
+      "date": "2025-09-04",
+      "bodypart": "upper",
+      "pushpull": "push",
+      "part": "shoulders",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "shoulders"
+      }
+    },
+    {
+      "id": "ex_seed_39",
+      "type": "lift",
+      "name": "Squat back",
+      "orm": 150,
+      "date": "2025-12-12",
+      "bodypart": "lower",
+      "pushpull": "legs",
+      "part": "legs",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "legs",
+        "part": "legs"
+      }
+    },
+    {
+      "id": "ex_1776265985038",
+      "name": "Lu Raises",
+      "orm": 10,
+      "date": "2026-12-13",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "push",
+        "part": "shoulders"
+      },
+      "type": "lift"
+    },
+    {
+      "id": "ex_1776266010327",
+      "name": "Split Squats",
+      "orm": 40,
+      "date": "2026-03-13",
+      "tags": {
+        "bodypart": "lower",
+        "pushpull": "legs",
+        "part": "legs"
+      },
+      "type": "lift"
+    },
+    {
+      "id": "ex_1792944692150",
+      "name": "Pull-Ups",
+      "orm": 0,
+      "date": "",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "pull",
+        "part": "back"
+      },
+      "type": "lift"
+    }
+  ],
+  "categories": [
+    {
+      "id": "bodypart",
+      "label": "Bodypart"
+    },
+    {
+      "id": "pushpull",
+      "label": "Push/Pull"
+    },
+    {
+      "id": "part",
+      "label": "Part"
+    }
+  ]
+}
