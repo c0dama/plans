@@ -1,6 +1,6 @@
 {
   "_type": "client_plans_bundle",
-  "_exported": "2026-11-23T13:27:02.983Z",
+  "_exported": "2026-11-23T13:42:57.535Z",
   "clientId": "cl_1777931230543",
   "clientName": "Caspar",
   "plans": [
@@ -1686,8 +1686,8 @@
       }
     },
     {
-      "id": "plan_1795440415374",
-      "name": "Maintain Lifts",
+      "id": "plan_1795441363326",
+      "name": "new plan",
       "type": "weekly",
       "startDate": "",
       "dayOrder": [
@@ -1702,14 +1702,7 @@
               "prog": "prog_1789907619204",
               "sets": "5",
               "reps": "5",
-              "kg": "60"
-            },
-            {
-              "name": "Bench Press",
-              "prog": "wave",
-              "sets": "5",
-              "reps": "5",
-              "kg": "96.25"
+              "kg": "75"
             },
             {
               "name": "OHP",
@@ -1717,6 +1710,13 @@
               "sets": "5",
               "reps": "5",
               "kg": "35"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "5",
+              "kg": "80"
             },
             {
               "name": "Hamstring Curl",
@@ -1734,27 +1734,33 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "prog": "prog_1789907619204",
               "sets": "5",
               "reps": "5",
-              "kg": "85"
+              "kg": "75"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "prog": "wave",
               "sets": "5",
               "reps": "5",
-              "kg": "7.5"
+              "kg": "32.5"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -1768,14 +1774,7 @@
               "prog": "prog_1789907619204",
               "sets": "5",
               "reps": "5",
-              "kg": "66"
-            },
-            {
-              "name": "Bench Press",
-              "prog": "wave",
-              "sets": "3",
-              "reps": "5",
-              "kg": "102.5"
+              "kg": "82.5"
             },
             {
               "name": "OHP",
@@ -1783,6 +1782,13 @@
               "sets": "5",
               "reps": "5",
               "kg": "38.5"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "5",
+              "kg": "85"
             },
             {
               "name": "Hamstring Curl",
@@ -1800,27 +1806,33 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "prog": "prog_1789907619204",
               "sets": "5",
               "reps": "5",
-              "kg": "93.5"
+              "kg": "82.5"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "prog": "wave",
               "sets": "3",
               "reps": "5",
-              "kg": "8.75"
+              "kg": "33.75"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -1834,14 +1846,7 @@
               "prog": "prog_1789907619204",
               "sets": "5",
               "reps": "5",
-              "kg": "72"
-            },
-            {
-              "name": "Bench Press",
-              "prog": "wave",
-              "sets": "1",
-              "reps": "5",
-              "kg": "107.5"
+              "kg": "90"
             },
             {
               "name": "OHP",
@@ -1849,6 +1854,13 @@
               "sets": "5",
               "reps": "5",
               "kg": "42"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "5",
+              "kg": "90"
             },
             {
               "name": "Hamstring Curl",
@@ -1866,27 +1878,33 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "prog": "prog_1789907619204",
               "sets": "5",
               "reps": "5",
-              "kg": "102"
+              "kg": "90"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "prog": "wave",
               "sets": "1",
               "reps": "5",
-              "kg": "8.75"
+              "kg": "36.25"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -1902,13 +1920,13 @@
               "kg": "0"
             },
             {
-              "name": "Bench Press",
+              "name": "OHP",
               "sets": "0",
               "reps": "0",
               "kg": "0"
             },
             {
-              "name": "OHP",
+              "name": "Bench Press",
               "sets": "0",
               "reps": "0",
               "kg": "0"
@@ -1928,25 +1946,31 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "sets": "0",
               "reps": "0",
               "kg": "0"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "sets": "0",
               "reps": "0",
               "kg": "0"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -1960,14 +1984,7 @@
               "prog": "prog_1789907619204",
               "sets": "3",
               "reps": "3",
-              "kg": "78"
-            },
-            {
-              "name": "Bench Press",
-              "prog": "wave",
-              "sets": "5",
-              "reps": "3",
-              "kg": "107.5"
+              "kg": "97.5"
             },
             {
               "name": "OHP",
@@ -1975,6 +1992,13 @@
               "sets": "3",
               "reps": "3",
               "kg": "45.5"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "3",
+              "kg": "90"
             },
             {
               "name": "Hamstring Curl",
@@ -1992,27 +2016,33 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "prog": "prog_1789907619204",
               "sets": "3",
               "reps": "3",
-              "kg": "110.5"
+              "kg": "97.5"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "prog": "wave",
               "sets": "5",
               "reps": "3",
-              "kg": "8.75"
+              "kg": "36.25"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -2026,14 +2056,7 @@
               "prog": "prog_1789907619204",
               "sets": "3",
               "reps": "3",
-              "kg": "84"
-            },
-            {
-              "name": "Bench Press",
-              "prog": "wave",
-              "sets": "3",
-              "reps": "3",
-              "kg": "113.75"
+              "kg": "105"
             },
             {
               "name": "OHP",
@@ -2041,6 +2064,13 @@
               "sets": "3",
               "reps": "3",
               "kg": "49"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "3",
+              "kg": "95"
             },
             {
               "name": "Hamstring Curl",
@@ -2058,27 +2088,33 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "prog": "prog_1789907619204",
               "sets": "3",
               "reps": "3",
-              "kg": "119"
+              "kg": "105"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "prog": "wave",
               "sets": "3",
               "reps": "3",
-              "kg": "10"
+              "kg": "37.5"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -2092,14 +2128,7 @@
               "prog": "prog_1789907619204",
               "sets": "3",
               "reps": "3",
-              "kg": "90"
-            },
-            {
-              "name": "Bench Press",
-              "prog": "wave",
-              "sets": "1",
-              "reps": "3",
-              "kg": "120"
+              "kg": "112.5"
             },
             {
               "name": "OHP",
@@ -2107,6 +2136,13 @@
               "sets": "3",
               "reps": "3",
               "kg": "52.5"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "3",
+              "kg": "100"
             },
             {
               "name": "Hamstring Curl",
@@ -2124,27 +2160,33 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "prog": "prog_1789907619204",
               "sets": "3",
               "reps": "3",
-              "kg": "127.5"
+              "kg": "112.5"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "prog": "wave",
               "sets": "1",
               "reps": "3",
-              "kg": "10"
+              "kg": "40"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -2160,13 +2202,13 @@
               "kg": "0"
             },
             {
-              "name": "Bench Press",
+              "name": "OHP",
               "sets": "0",
               "reps": "0",
               "kg": "0"
             },
             {
-              "name": "OHP",
+              "name": "Bench Press",
               "sets": "0",
               "reps": "0",
               "kg": "0"
@@ -2186,25 +2228,31 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "sets": "0",
               "reps": "0",
               "kg": "0"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "sets": "0",
               "reps": "0",
               "kg": "0"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -2218,13 +2266,6 @@
               "prog": "prog_1789907619204",
               "sets": "5",
               "reps": "1",
-              "kg": "96"
-            },
-            {
-              "name": "Bench Press",
-              "prog": "wave",
-              "sets": "5",
-              "reps": "1",
               "kg": "120"
             },
             {
@@ -2233,6 +2274,13 @@
               "sets": "5",
               "reps": "1",
               "kg": "56"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "5",
+              "reps": "1",
+              "kg": "100"
             },
             {
               "name": "Hamstring Curl",
@@ -2250,27 +2298,33 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "prog": "prog_1789907619204",
               "sets": "5",
               "reps": "1",
-              "kg": "136"
+              "kg": "120"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "prog": "wave",
               "sets": "5",
               "reps": "1",
-              "kg": "10"
+              "kg": "40"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -2284,14 +2338,7 @@
               "prog": "prog_1789907619204",
               "sets": "3",
               "reps": "1",
-              "kg": "102"
-            },
-            {
-              "name": "Bench Press",
-              "prog": "wave",
-              "sets": "3",
-              "reps": "1",
-              "kg": "126.25"
+              "kg": "127.5"
             },
             {
               "name": "OHP",
@@ -2299,6 +2346,13 @@
               "sets": "3",
               "reps": "1",
               "kg": "59.5"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "3",
+              "reps": "1",
+              "kg": "105"
             },
             {
               "name": "Hamstring Curl",
@@ -2316,27 +2370,33 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "prog": "prog_1789907619204",
               "sets": "3",
               "reps": "1",
-              "kg": "144.5"
+              "kg": "127.5"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "prog": "wave",
               "sets": "3",
               "reps": "1",
-              "kg": "10"
+              "kg": "42.5"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -2350,14 +2410,7 @@
               "prog": "prog_1789907619204",
               "sets": "1",
               "reps": "1",
-              "kg": "108"
-            },
-            {
-              "name": "Bench Press",
-              "prog": "wave",
-              "sets": "1",
-              "reps": "1",
-              "kg": "132.5"
+              "kg": "135"
             },
             {
               "name": "OHP",
@@ -2365,6 +2418,13 @@
               "sets": "1",
               "reps": "1",
               "kg": "63"
+            },
+            {
+              "name": "Bench Press",
+              "prog": "wave",
+              "sets": "1",
+              "reps": "1",
+              "kg": "110"
             },
             {
               "name": "Hamstring Curl",
@@ -2382,27 +2442,33 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "prog": "prog_1789907619204",
               "sets": "1",
               "reps": "1",
-              "kg": "153"
+              "kg": "135"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "prog": "wave",
               "sets": "1",
               "reps": "1",
-              "kg": "11.25"
+              "kg": "43.75"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -2418,13 +2484,13 @@
               "kg": "0"
             },
             {
-              "name": "Bench Press",
+              "name": "OHP",
               "sets": "0",
               "reps": "0",
               "kg": "0"
             },
             {
-              "name": "OHP",
+              "name": "Bench Press",
               "sets": "0",
               "reps": "0",
               "kg": "0"
@@ -2444,25 +2510,31 @@
           ],
           "day 2": [
             {
-              "name": "Deadlift",
+              "name": "Squat back",
               "sets": "0",
               "reps": "0",
               "kg": "0"
             },
             {
-              "name": "Lu Raises",
+              "name": "Hamstring Curl",
               "sets": "0",
               "reps": "0",
               "kg": "0"
             },
             {
-              "name": "dips narrow",
+              "name": "Ring Muscle-Ups",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
             },
             {
-              "name": "Split Squats",
+              "name": "One-Arm block",
+              "prog": "prog_1792944397826",
+              "repTrack": true,
+              "sets": "3"
+            },
+            {
+              "name": "dips narrow",
               "prog": "prog_1792944397826",
               "repTrack": true,
               "sets": "3"
@@ -2471,10 +2543,10 @@
         }
       },
       "altGroups": {},
-      "templateId": "plan_1792944990591",
-      "createdAt": "2026-11-23T13:26:55.374Z",
+      "templateId": "plan_1795441357465",
+      "createdAt": "2026-11-23T13:42:43.326Z",
       "_meta": {
-        "color": "#00d4ff"
+        "color": "#ff9f40"
       }
     }
   ],
@@ -2787,21 +2859,6 @@
       }
     },
     {
-      "id": "ex_seed_7",
-      "type": "lift",
-      "name": "Deadlift",
-      "orm": 170,
-      "date": "2025-12-12",
-      "bodypart": "lower",
-      "pushpull": "pull",
-      "part": "legs",
-      "tags": {
-        "bodypart": "lower",
-        "pushpull": "pull",
-        "part": "legs"
-      }
-    },
-    {
       "id": "ex_seed_10",
       "type": "lift",
       "name": "dips narrow",
@@ -2862,32 +2919,32 @@
       }
     },
     {
-      "id": "ex_1776265985038",
-      "name": "Lu Raises",
-      "orm": 10,
-      "date": "2026-12-13",
-      "tags": {
-        "bodypart": "upper",
-        "pushpull": "push",
-        "part": "shoulders"
-      },
-      "type": "lift"
-    },
-    {
-      "id": "ex_1776266010327",
-      "name": "Split Squats",
-      "orm": 40,
-      "date": "2026-03-13",
-      "tags": {
-        "bodypart": "lower",
-        "pushpull": "legs",
-        "part": "legs"
-      },
-      "type": "lift"
-    },
-    {
       "id": "ex_1792944692150",
       "name": "Pull-Ups",
+      "orm": 0,
+      "date": "",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "pull",
+        "part": "back"
+      },
+      "type": "lift"
+    },
+    {
+      "id": "ex_1792945015983",
+      "name": "One-Arm block",
+      "orm": 0,
+      "date": "",
+      "tags": {
+        "bodypart": "upper",
+        "pushpull": "pull",
+        "part": "arms"
+      },
+      "type": "lift"
+    },
+    {
+      "id": "ex_1795439910166",
+      "name": "Ring Muscle-Ups",
       "orm": 0,
       "date": "",
       "tags": {
